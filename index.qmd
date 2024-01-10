@@ -4,12 +4,9 @@ title: "My website and data analysis portfolio"
 
 # Hello
 
-### And hello again
+### My Name is Saraa Al Jawad
 
-Welcome to **my website** and _data analysis portfolio._ 
+Welcome to **my website** and *data analysis portfolio.* for MADA course at UGA
 
-
-* Please use the `Menu Bar` above to look around.
-* Have fun!
-
-**Feel free to change this text any way you want 😁!**
+-   Please use the `Menu Bar` above to look around.
+-   Have fun!

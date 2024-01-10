@@ -2,6 +2,34 @@
 title: "About me"
 ---
 
-Add some text and a figure describing myself.
+I am currently a PhD student in Bioinformatics program at UGA working in Dr. Edison lab.
 
-For details, see the exercise instructions. 
+## Education
+
+Phd Bioinformatics, August 2022- present \[University of Georgia, Athens, GA\]
+
+Ms Health Profession, MRI & management, 2014 \[Thomas Jefferson University, Philadelphia, PA\]
+
+Bs Health Profession, MRI, 2015 \[Thomas Jefferson University, Philadelphia, PA\]
+
+Bs Allied Health, Radiological Sciences, 2012
+
+## Research Interest
+
+-   NMR sensitivity
+-   Metabolomics
+-   ML/ AI
+
+## Training and some Skills
+
+I have some basics skills in R, C++, python, Matlab I took BINF 8441E course ( concentrating in statistical methods in Bioinformatics using R programming)
+
+## Goal for this course
+
+I hope to learn new tools for analyzing data that will help me in my research
+
+## More About me:
+
+Mom of 2 Kids, having a busy life.
+
+![](images/meme.jpg){width="218"}
