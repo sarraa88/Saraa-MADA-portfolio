@@ -24,7 +24,7 @@ Bs Allied Health, Radiological Sciences, 2012
 
 I have some basics skills in R, C++, python, Matlab I took BINF 8441E course ( concentrating in statistical methods in Bioinformatics using R programming)
 
-## Goal for this course
+## Goal for this course: 
 
 I hope to learn new tools for analyzing data that will help me in my research
 
